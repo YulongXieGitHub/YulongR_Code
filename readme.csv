@@ -1,0 +1,25 @@
+July 15, 2015
+
+Take an effort to learn "github" and "R package".
+
+This sub-folder "YulongR_Code" is a subfoder under "C:\github" which is to hold all all repositories.  Each subfolder under "C:\github\" is a repository, so "YulongR_Code" is also a repository.
+This sub-folder "YulongR_Code" consists of R scripts I think I can use to develope some R packages, which are scripts from some past works.
+
+Steps to make this repository:
+
+Step 0: invoke git bash.
+Step 1: [git init YulogR_Code] under "C:\github\":  To initialize each of these repositories such as "YulongR_Code" under "C:\github\", do [git init YulogR_Code] under "C:\github\" for repository [YulongR_Code].
+Step 2: [cd YulongR_Code]: Then switch inside to "YulongR_Code" to do all other manipulations.
+Step 3: Create a same named reppository in github and copy the https URL
+Step 4: [git remote add origin https://github.com/YulongXieGitHub/YulongR_Code]:	connect to github from git bash.
+Step 5: [git remote -v]: view the github connections
+Step 6: [git add .]: staging everything in this "YulongR_Code" folder
+Step 7: [git diff --cached]: this will see all contents we just staged.
+Step 8: [git commit -m 'initialization']:	commit to preserve the snapshot.
+Step 9: [git diff --cached]: nothing new in the staging area since every thing have been push to the local repository already.
+Step 10: [git pull origin master]: successfully pull data out from github
+Step 10: [git push origin master]: it propmts used name: YulongXieGitHub and password: But failed to push data to github.  Fatal: Authentication failed!!!!!!!!!!
+
+
+
+YuLong Xie

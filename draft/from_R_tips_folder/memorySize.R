@@ -1,0 +1,2 @@
+# show memory that R currently has and the maximum amount R has had in the current session.
+cat('memory size available at this point is ',memory.size(),' and the overall memory size is ',memory.size(max=TRUE),'\n')

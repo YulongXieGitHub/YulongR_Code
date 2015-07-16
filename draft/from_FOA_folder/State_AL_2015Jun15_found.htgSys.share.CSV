@@ -1,0 +1,29 @@
+fraction of BG17,"Var1","Freq"
+"1","Basement",5
+"2","Crawlspace",7
+"3","Slab",120
+"4","UnheatedBasement",2
+fraction of EQ1,"Var1","Freq"
+"1","electricity",76
+"2","gas",40
+fraction of EQ2,"Var1","Freq"
+"1","ElectricResistance",6
+"2","Furnace",43
+"3","HeatPump",67
+foundation share in AL,"Var1","Freq"
+"1","Basement",5
+"2","Crawlspace",7
+"3","Slab",120
+"4","UnheatedBasement",2
+fuel share in AL,"Var1","Freq"
+"1","electricity",76
+"2","gas",40
+"3","NA",3
+heating system share in AL,"Var1","Freq"
+"1","ElectricResistance",6
+"2","Furnace",43
+"3","HeatPump",67
+"4","NA",3
+CZ share in AL,"Var1","Freq"
+"1","2A",28
+"2","3A",106
